@@ -11,7 +11,7 @@
 
   <!-- 2. STATS CARDS -->
   <!-- GitHub Streak Card -->
-  <img src="https://streak-stats.demolab.com?user=Demannn-0x&theme=dark&background=0A101F&border=1E293B&stroke=22D3EE&ring=A78BFA&fire=10B981&currStreakNum=F8FAFC&sideNums=F8FAFC&currStreakLabel=22D3EE&sideLabels=94A3B8&dates=94A3B8&hide_border=false" width="100%" alt="Demannn-0x GitHub Streak" />
+  <img src="https://streak-stats.demolab.com/?user=Demannn-0x&theme=dark&background=0A101F&border=1E293B&stroke=22D3EE&ring=A78BFA&fire=10B981&currStreakNum=F8FAFC&sideNums=F8FAFC&currStreakLabel=22D3EE&sideLabels=94A3B8&dates=94A3B8" width="100%" alt="Demannn-0x GitHub Streak" />
 
   <br/><br/>
 
