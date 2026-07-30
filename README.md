@@ -2,9 +2,9 @@
 
   <!-- 1. BANNER -->
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Demannn-0x/Profile-/main/dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Demannn-0x/Profile-/main/light.svg">
-    <img alt="Aman Sheikh Live Terminal Profile Banner" src="https://raw.githubusercontent.com/Demannn-0x/Profile-/main/dark.svg" width="100%">
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Demannn-0x/Profile/main/dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Demannn-0x/Profile/main/light.svg">
+    <img alt="Aman Sheikh Live Terminal Profile Banner" src="https://raw.githubusercontent.com/Demannn-0x/Profile/main/dark.svg" width="100%">
   </picture>
 
   <br/><br/>
@@ -24,9 +24,9 @@
 
   <!-- 3. CONTRIBUTION SNAKE -->
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Demannn-0x/Profile-/output/github-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Demannn-0x/Profile-/output/github-snake-light.svg">
-    <img alt="Demannn-0x Contribution Snake Grid" src="https://raw.githubusercontent.com/Demannn-0x/Profile-/output/github-snake-dark.svg" width="100%">
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Demannn-0x/Profile/output/github-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Demannn-0x/Profile/output/github-snake-light.svg">
+    <img alt="Demannn-0x Contribution Snake Grid" src="https://raw.githubusercontent.com/Demannn-0x/Profile/output/github-snake-dark.svg" width="100%">
   </picture>
 
   <br/><br/>
